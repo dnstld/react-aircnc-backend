@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dnstld/react-aircnc-backend.git",
+  "author": "Denis Toledo <contato@denistoledo.com.br>",
+  "license": "MIT"
+}
